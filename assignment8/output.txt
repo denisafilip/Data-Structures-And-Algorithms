@@ -1,0 +1,32 @@
+Bubble sort started:
+1 2 3 4 5 6 7 8 9 10 
+The required data for bubble sort is:
+noOfAccesses: 4
+noOfComparisons: 1
+noOfAssignments: 2
+Total number of actions: 7
+
+Quick sort started:
+1 2 3 4 5 6 7 8 9 10 
+The required data for quick sort is:
+noOfAccesses: 70
+noOfComparisons: 13
+noOfAssignments: 38
+Total number of actions: 121
+
+Counting sort started:
+1 2 3 4 5 6 7 8 9 10 
+The required data for counting sort is:
+noOfAccesses: 30
+noOfComparisons: 0
+noOfAssignments: 10
+Total number of actions: 40
+
+Radix Sort started:
+1 2 3 4 5 6 7 8 9 10 
+The required data for radix sort is:
+noOfAccesses: 110
+noOfComparisons: 0
+noOfAssignments: 20
+Total number of actions: 130
+

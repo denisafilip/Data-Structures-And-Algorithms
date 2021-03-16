@@ -1,0 +1,81 @@
+
+The matrix is:
+    A   B   C   D   E   F   G   
+A   0  12  11   9   7   6   0 
+B  12   0  16   0   0   0   2 
+C  11  16   0   3   2   0   7 
+D   9   0   3   0   0   5   8 
+E   7   0   2   0   0   4   0 
+F   6   0   0   5   4   0   0 
+G   0   2   7   8   0   0   0 
+
+BFS for adjacency matrix started:
+G B C D A E F 
+BFS for adjacency matrix ended.
+
+DFS recursive for adjacency matrix started:
+G B A C D F E 
+DFS recursive for adjacency matrix ended.
+
+The adjacency list representation:
+A: (B, 12) (C, 11) (D, 9) (E, 7) (F, 6) 
+B: (A, 12) (C, 16) (G, 2) 
+C: (A, 11) (B, 16) (D, 3) (E, 2) (G, 7) 
+D: (A, 9) (C, 3) (F, 5) (G, 8) 
+E: (A, 7) (C, 2) (F, 4) 
+F: (A, 6) (D, 5) (E, 4) 
+G: (B, 2) (C, 7) (D, 8) 
+
+BFS for adjacency list started:
+G B C D A E F 
+BFS for adjacency list ended.
+
+DFS recursive for adjacency list started:
+G B A C D F E 
+DFS recursive for adjacency list ended.
+
+The search for the longest path started:
+B A F E C G D 
+The search for the longest path ended.
+
+The matrix is:
+    A   B   C   D   E   F   G   
+A   0  12  11   9   7   6   0 
+B  12   0  16   0   0   0   2 
+C  11  16   0   3   2   0   7 
+D   9   0   3   0   0   5   8 
+E   7   0   2   0   0   4   0 
+F   6   0   0   5   4   0   0 
+G   0   2   7   8   0   0   0 
+
+Prim's algorithm started
+E -> C	C -> D	E -> F	F -> A	C -> G	G -> B	
+Cost of MST by Prim's algorithm: 24
+Prim's algorithm ended 
+
+Dijkstra's Algorithm started
+Path from E to A is: E -> A, with the cost 7.
+Path from E to B is: E -> C -> G -> B, with the cost 11.
+Path from E to C is: E -> C, with the cost 2.
+Path from E to D is: E -> C -> D, with the cost 5.
+Path from E to F is: E -> F, with the cost 4.
+Path from E to G is: E -> C -> G, with the cost 9.
+Dijkstra's Algorithm ended
+
+Kruskal algorithm started:
+B -> G	C -> E	C -> D	E -> F	A -> F	A -> E	
+The cost of MST by Kruskal's Algorithm: 24
+Kruskal algorithm ended
+
+Bellman-Ford algorithm started: 
+Path from E to A is: E -> A, with the cost 7.
+Path from E to B is: E -> C -> G -> B, with the cost 11.
+Path from E to C is: E -> C, with the cost 2.
+Path from E to D is: E -> C -> D, with the cost 5.
+Path from E to F is: E -> F, with the cost 4.
+Path from E to G is: E -> C -> G, with the cost 9.
+Bellman-Ford algorithm ended. 
+
+Vertices covered by the approximation algorithm for vertex cover:
+A B C D E F 
+Vertex cover approximation algorithm ended.
