@@ -1,0 +1,320 @@
+For the file 100.data:
+hashFunction: H0
+For ISF 0.10: Standard Deviation ---------------------- 20.04
+For ISF 0.20: Standard Deviation ---------------------- 15.03
+For ISF 0.35: Standard Deviation ---------------------- 11.79
+For ISF 0.50: Standard Deviation ---------------------- 9.82
+For ISF 0.75: Standard Deviation ---------------------- 8.07
+For ISF 0.85: Standard Deviation ---------------------- 7.59
+
+
+For the file 100.data:
+hashFunction: H1
+For ISF 0.10: Standard Deviation ---------------------- 3.66
+For ISF 0.20: Standard Deviation ---------------------- 2.72
+For ISF 0.35: Standard Deviation ---------------------- 1.75
+For ISF 0.50: Standard Deviation ---------------------- 1.51
+For ISF 0.75: Standard Deviation ---------------------- 1.17
+For ISF 0.85: Standard Deviation ---------------------- 1.10
+
+
+For the file 100.data:
+hashFunction: H2
+For ISF 0.10: Standard Deviation ---------------------- 2.53
+For ISF 0.20: Standard Deviation ---------------------- 1.67
+For ISF 0.35: Standard Deviation ---------------------- 1.64
+For ISF 0.50: Standard Deviation ---------------------- 1.69
+For ISF 0.75: Standard Deviation ---------------------- 1.06
+For ISF 0.85: Standard Deviation ---------------------- 1.00
+
+
+For the file 100.data:
+hashFunction: H3
+For ISF 0.10: Standard Deviation ---------------------- 3.79
+For ISF 0.20: Standard Deviation ---------------------- 2.65
+For ISF 0.35: Standard Deviation ---------------------- 1.37
+For ISF 0.50: Standard Deviation ---------------------- 1.33
+For ISF 0.75: Standard Deviation ---------------------- 1.06
+For ISF 0.85: Standard Deviation ---------------------- 1.04
+
+
+For the file 500.data:
+hashFunction: H0
+For ISF 0.10: Standard Deviation ---------------------- 49.00
+For ISF 0.20: Standard Deviation ---------------------- 35.01
+For ISF 0.35: Standard Deviation ---------------------- 26.66
+For ISF 0.50: Standard Deviation ---------------------- 22.28
+For ISF 0.75: Standard Deviation ---------------------- 18.21
+For ISF 0.85: Standard Deviation ---------------------- 17.11
+
+
+For the file 500.data:
+hashFunction: H1
+For ISF 0.10: Standard Deviation ---------------------- 3.32
+For ISF 0.20: Standard Deviation ---------------------- 2.24
+For ISF 0.35: Standard Deviation ---------------------- 1.78
+For ISF 0.50: Standard Deviation ---------------------- 1.48
+For ISF 0.75: Standard Deviation ---------------------- 1.17
+For ISF 0.85: Standard Deviation ---------------------- 1.19
+
+
+For the file 500.data:
+hashFunction: H2
+For ISF 0.10: Standard Deviation ---------------------- 3.35
+For ISF 0.20: Standard Deviation ---------------------- 2.24
+For ISF 0.35: Standard Deviation ---------------------- 1.65
+For ISF 0.50: Standard Deviation ---------------------- 1.47
+For ISF 0.75: Standard Deviation ---------------------- 1.14
+For ISF 0.85: Standard Deviation ---------------------- 1.04
+
+
+For the file 500.data:
+hashFunction: H3
+For ISF 0.10: Standard Deviation ---------------------- 2.73
+For ISF 0.20: Standard Deviation ---------------------- 1.91
+For ISF 0.35: Standard Deviation ---------------------- 1.68
+For ISF 0.50: Standard Deviation ---------------------- 1.38
+For ISF 0.75: Standard Deviation ---------------------- 1.15
+For ISF 0.85: Standard Deviation ---------------------- 1.11
+
+
+For the file 1000.data:
+hashFunction: H0
+For ISF 0.10: Standard Deviation ---------------------- 70.02
+For ISF 0.20: Standard Deviation ---------------------- 49.77
+For ISF 0.35: Standard Deviation ---------------------- 37.75
+For ISF 0.50: Standard Deviation ---------------------- 31.57
+For ISF 0.75: Standard Deviation ---------------------- 25.79
+For ISF 0.85: Standard Deviation ---------------------- 24.23
+
+
+For the file 1000.data:
+hashFunction: H1
+For ISF 0.10: Standard Deviation ---------------------- 3.01
+For ISF 0.20: Standard Deviation ---------------------- 2.14
+For ISF 0.35: Standard Deviation ---------------------- 1.76
+For ISF 0.50: Standard Deviation ---------------------- 1.39
+For ISF 0.75: Standard Deviation ---------------------- 1.24
+For ISF 0.85: Standard Deviation ---------------------- 1.20
+
+
+For the file 1000.data:
+hashFunction: H2
+For ISF 0.10: Standard Deviation ---------------------- 3.09
+For ISF 0.20: Standard Deviation ---------------------- 2.18
+For ISF 0.35: Standard Deviation ---------------------- 1.57
+For ISF 0.50: Standard Deviation ---------------------- 1.46
+For ISF 0.75: Standard Deviation ---------------------- 1.16
+For ISF 0.85: Standard Deviation ---------------------- 1.08
+
+
+For the file 1000.data:
+hashFunction: H3
+For ISF 0.10: Standard Deviation ---------------------- 3.11
+For ISF 0.20: Standard Deviation ---------------------- 2.30
+For ISF 0.35: Standard Deviation ---------------------- 1.60
+For ISF 0.50: Standard Deviation ---------------------- 1.38
+For ISF 0.75: Standard Deviation ---------------------- 1.18
+For ISF 0.85: Standard Deviation ---------------------- 1.05
+
+
+For the file 5000.data:
+hashFunction: H0
+For ISF 0.10: Standard Deviation ---------------------- 157.82
+For ISF 0.20: Standard Deviation ---------------------- 111.71
+For ISF 0.35: Standard Deviation ---------------------- 84.50
+For ISF 0.50: Standard Deviation ---------------------- 70.69
+For ISF 0.75: Standard Deviation ---------------------- 57.73
+For ISF 0.85: Standard Deviation ---------------------- 54.22
+
+
+For the file 5000.data:
+hashFunction: H1
+For ISF 0.10: Standard Deviation ---------------------- 3.06
+For ISF 0.20: Standard Deviation ---------------------- 3.57
+For ISF 0.35: Standard Deviation ---------------------- 3.64
+For ISF 0.50: Standard Deviation ---------------------- 3.32
+For ISF 0.75: Standard Deviation ---------------------- 2.87
+For ISF 0.85: Standard Deviation ---------------------- 2.73
+
+
+For the file 5000.data:
+hashFunction: H2
+For ISF 0.10: Standard Deviation ---------------------- 3.11
+For ISF 0.20: Standard Deviation ---------------------- 2.24
+For ISF 0.35: Standard Deviation ---------------------- 1.66
+For ISF 0.50: Standard Deviation ---------------------- 1.40
+For ISF 0.75: Standard Deviation ---------------------- 1.16
+For ISF 0.85: Standard Deviation ---------------------- 1.07
+
+
+For the file 5000.data:
+hashFunction: H3
+For ISF 0.10: Standard Deviation ---------------------- 3.04
+For ISF 0.20: Standard Deviation ---------------------- 2.19
+For ISF 0.35: Standard Deviation ---------------------- 1.69
+For ISF 0.50: Standard Deviation ---------------------- 1.40
+For ISF 0.75: Standard Deviation ---------------------- 1.14
+For ISF 0.85: Standard Deviation ---------------------- 1.05
+
+
+For the file 10000.data:
+hashFunction: H0
+For ISF 0.10: Standard Deviation ---------------------- 223.44
+For ISF 0.20: Standard Deviation ---------------------- 158.07
+For ISF 0.35: Standard Deviation ---------------------- 119.54
+For ISF 0.50: Standard Deviation ---------------------- 100.01
+For ISF 0.75: Standard Deviation ---------------------- 81.65
+For ISF 0.85: Standard Deviation ---------------------- 76.70
+
+
+For the file 10000.data:
+hashFunction: H1
+For ISF 0.10: Standard Deviation ---------------------- 6.57
+For ISF 0.20: Standard Deviation ---------------------- 6.79
+For ISF 0.35: Standard Deviation ---------------------- 5.70
+For ISF 0.50: Standard Deviation ---------------------- 4.95
+For ISF 0.75: Standard Deviation ---------------------- 4.15
+For ISF 0.85: Standard Deviation ---------------------- 3.92
+
+
+For the file 10000.data:
+hashFunction: H2
+For ISF 0.10: Standard Deviation ---------------------- 3.14
+For ISF 0.20: Standard Deviation ---------------------- 2.22
+For ISF 0.35: Standard Deviation ---------------------- 1.69
+For ISF 0.50: Standard Deviation ---------------------- 1.41
+For ISF 0.75: Standard Deviation ---------------------- 1.16
+For ISF 0.85: Standard Deviation ---------------------- 1.09
+
+
+For the file 10000.data:
+hashFunction: H3
+For ISF 0.10: Standard Deviation ---------------------- 3.11
+For ISF 0.20: Standard Deviation ---------------------- 2.21
+For ISF 0.35: Standard Deviation ---------------------- 1.71
+For ISF 0.50: Standard Deviation ---------------------- 1.40
+For ISF 0.75: Standard Deviation ---------------------- 1.14
+For ISF 0.85: Standard Deviation ---------------------- 1.10
+
+
+For the file 25000.data:
+hashFunction: H0
+For ISF 0.10: Standard Deviation ---------------------- 353.44
+For ISF 0.20: Standard Deviation ---------------------- 249.99
+For ISF 0.35: Standard Deviation ---------------------- 188.97
+For ISF 0.50: Standard Deviation ---------------------- 158.10
+For ISF 0.75: Standard Deviation ---------------------- 129.10
+For ISF 0.85: Standard Deviation ---------------------- 121.27
+
+
+For the file 25000.data:
+hashFunction: H1
+For ISF 0.10: Standard Deviation ---------------------- 15.47
+For ISF 0.20: Standard Deviation ---------------------- 12.03
+For ISF 0.35: Standard Deviation ---------------------- 9.42
+For ISF 0.50: Standard Deviation ---------------------- 7.99
+For ISF 0.75: Standard Deviation ---------------------- 6.59
+For ISF 0.85: Standard Deviation ---------------------- 6.21
+
+
+For the file 25000.data:
+hashFunction: H2
+For ISF 0.10: Standard Deviation ---------------------- 3.17
+For ISF 0.20: Standard Deviation ---------------------- 2.24
+For ISF 0.35: Standard Deviation ---------------------- 1.66
+For ISF 0.50: Standard Deviation ---------------------- 1.42
+For ISF 0.75: Standard Deviation ---------------------- 1.16
+For ISF 0.85: Standard Deviation ---------------------- 1.08
+
+
+For the file 25000.data:
+hashFunction: H3
+For ISF 0.10: Standard Deviation ---------------------- 3.14
+For ISF 0.20: Standard Deviation ---------------------- 2.25
+For ISF 0.35: Standard Deviation ---------------------- 1.71
+For ISF 0.50: Standard Deviation ---------------------- 1.41
+For ISF 0.75: Standard Deviation ---------------------- 1.16
+For ISF 0.85: Standard Deviation ---------------------- 1.08
+
+
+For the file 50000.data:
+hashFunction: H0
+For ISF 0.10: Standard Deviation ---------------------- 500.06
+For ISF 0.20: Standard Deviation ---------------------- 353.58
+For ISF 0.35: Standard Deviation ---------------------- 267.31
+For ISF 0.50: Standard Deviation ---------------------- 223.65
+For ISF 0.75: Standard Deviation ---------------------- 182.61
+For ISF 0.85: Standard Deviation ---------------------- 171.54
+
+
+For the file 50000.data:
+hashFunction: H1
+For ISF 0.10: Standard Deviation ---------------------- 23.80
+For ISF 0.20: Standard Deviation ---------------------- 17.55
+For ISF 0.35: Standard Deviation ---------------------- 13.50
+For ISF 0.50: Standard Deviation ---------------------- 11.37
+For ISF 0.75: Standard Deviation ---------------------- 9.33
+For ISF 0.85: Standard Deviation ---------------------- 8.78
+
+
+For the file 50000.data:
+hashFunction: H2
+For ISF 0.10: Standard Deviation ---------------------- 3.19
+For ISF 0.20: Standard Deviation ---------------------- 2.26
+For ISF 0.35: Standard Deviation ---------------------- 1.69
+For ISF 0.50: Standard Deviation ---------------------- 1.42
+For ISF 0.75: Standard Deviation ---------------------- 1.15
+For ISF 0.85: Standard Deviation ---------------------- 1.09
+
+
+For the file 50000.data:
+hashFunction: H3
+For ISF 0.10: Standard Deviation ---------------------- 3.11
+For ISF 0.20: Standard Deviation ---------------------- 2.20
+For ISF 0.35: Standard Deviation ---------------------- 1.69
+For ISF 0.50: Standard Deviation ---------------------- 1.41
+For ISF 0.75: Standard Deviation ---------------------- 1.15
+For ISF 0.85: Standard Deviation ---------------------- 1.09
+
+
+For the file 100000.data:
+hashFunction: H0
+For ISF 0.10: Standard Deviation ---------------------- 707.13
+For ISF 0.20: Standard Deviation ---------------------- 500.07
+For ISF 0.35: Standard Deviation ---------------------- 378.04
+For ISF 0.50: Standard Deviation ---------------------- 316.29
+For ISF 0.75: Standard Deviation ---------------------- 258.25
+For ISF 0.85: Standard Deviation ---------------------- 242.59
+
+
+For the file 100000.data:
+hashFunction: H1
+For ISF 0.10: Standard Deviation ---------------------- 34.99
+For ISF 0.20: Standard Deviation ---------------------- 25.24
+For ISF 0.35: Standard Deviation ---------------------- 19.24
+For ISF 0.50: Standard Deviation ---------------------- 16.15
+For ISF 0.75: Standard Deviation ---------------------- 13.23
+For ISF 0.85: Standard Deviation ---------------------- 12.41
+
+
+For the file 100000.data:
+hashFunction: H2
+For ISF 0.10: Standard Deviation ---------------------- 3.17
+For ISF 0.20: Standard Deviation ---------------------- 2.23
+For ISF 0.35: Standard Deviation ---------------------- 1.69
+For ISF 0.50: Standard Deviation ---------------------- 1.42
+For ISF 0.75: Standard Deviation ---------------------- 1.15
+For ISF 0.85: Standard Deviation ---------------------- 1.08
+
+
+For the file 100000.data:
+hashFunction: H3
+For ISF 0.10: Standard Deviation ---------------------- 3.16
+For ISF 0.20: Standard Deviation ---------------------- 2.24
+For ISF 0.35: Standard Deviation ---------------------- 1.70
+For ISF 0.50: Standard Deviation ---------------------- 1.41
+For ISF 0.75: Standard Deviation ---------------------- 1.15
+For ISF 0.85: Standard Deviation ---------------------- 1.08
+
+
